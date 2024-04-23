@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Huu Phat
-- 👀 I’m interested in Natural Language Processing (NLP), multimodal,..
+- 👀 I’m interested in Natural Language Processing (NLP), multimodal, MLops,..
 - 🌱 I’m currently learning Computer Science at the University of Infomation Technology
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: Feel free to contact me via:
